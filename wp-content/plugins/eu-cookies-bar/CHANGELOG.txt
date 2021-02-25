@@ -1,0 +1,36 @@
+/*1.0.3.7 - 2020.08.18*/
+- Updated: Compatible with WP 5.5
+
+/*1.0.3.6 - 2020.04.23*/
+- Updated: Language file
+- Updated: Class support
+
+/*1.0.3.5 - 2020.03.23*/
+- Updated: Compatible with WP 5.4
+- Updated: Class support
+
+/*1.0.3.4 - 2019.11.16*/
+- Updated: Compatible with WP 5.3
+
+/*1.0.3.3 - 2019.04.03*/
+- Updated: Add dismiss button for admin notices
+
+/*1.0.3.2 - 2018.11.21*/
+- Updated: Class support
+
+/*1.0.3.1 - 2018.11.10*/
+- Updated: Class support
+
+/*1.0.3 - 2018.10.17*/
+- Updated: Class support
+
+/*1.0.2 - 2018.10.15*/
+- Fixed: Class support
+
+/*1.0.1 - 2018.06.29*/
+- Added: Screenshort
+- Added: Option to customize cookies bar border radius, margin, padding; button accept and button decline title, color, background color, border radius; user cookies form heading and button "Save settings" design
+- Updated: Privacy page url
+
+**v1.0.0 - 2018.06.27**
+- First release.
